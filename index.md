@@ -4,8 +4,8 @@ title: 首页
 ---
 
 <div class="header-section" style="background: linear-gradient(120deg, #E8F5E9, #F3E5F5); padding: 40px 0; text-align: center; border-radius: 10px; margin-bottom: 30px;">
-  <h1 style="color: #2E7D32; margin-bottom: 20px;">小组会安排</h1>
-  <p style="color: #4A4A4A; font-size: 1.2em;">本页面记录了我们研讨班的小组会安排和论文讨论记录</p>
+  <h1 style="color: #2E7D32; margin-bottom: 20px;">组会安排</h1>
+  <p style="color: #4A4A4A; font-size: 1.2em;">本页面记录了我们研讨班的组会安排和论文讨论记录</p>
 </div>
 
 每周四上午8:30-11:30，地点：计算机科学与技术学院会议室
