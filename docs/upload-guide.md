@@ -93,6 +93,13 @@ categories: paper
 1. **Q: 提交后网站没有更新？**
    A: 请等待1-2分钟，GitHub Actions需要一些时间来构建和部署网站。
 
+2. **Q: 点击仓库链接显示404错误（页面不存在）？**
+   A: 这通常是因为你还没有接受GitHub邀请或邀请已过期。解决方法：
+   - 检查你的邮箱是否有未处理的GitHub邀请邮件
+   - 访问 [GitHub邀请页面](https://github.com/notifications/organization-invitation) 查看并接受所有待处理的邀请
+   - 请确保你以登记的GitHub账号登录。
+   - 如果仍然有问题，请联系管理员重新发送邀请
+
 
 ## 🆘 需要帮助？
 
