@@ -13,7 +13,7 @@ title: 首页
 > 🔔 新成员请查看[论文分享上传指南]({{ site.baseurl }}/docs/upload-guide)了解如何上传你的分享
 
 <div class="meeting-rules" style="background: #F5F5F5; padding: 25px; border-radius: 10px; margin: 30px 0;">
-  <h2 style="color: #1B5E20; border-bottom: 2px solid #81C784; padding-bottom: 10px; margin-bottom: 20px;">小组会制度：</h2>
+  <h2 style="color: #1B5E20; border-bottom: 2px solid #81C784; padding-bottom: 10px; margin-bottom: 20px;">组会制度：</h2>
   <ol>
     <li><strong>报告安排：</strong> 每周安排4位同学进行论文分享和研究进展汇报</li>
     <li><strong>论文选择：</strong> 优先选择近期发表于顶级会议/期刊的论文，与小组研究方向相关</li>
