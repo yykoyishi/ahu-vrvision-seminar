@@ -42,6 +42,7 @@ journal: "会议/期刊名称 年份"
 presenter: "你的名字"
 date: YYYY-MM-DD
 original_link: "论文原文链接"
+code: "代码仓库链接"  # 可选，如果有代码仓库链接，请填写
 categories: paper
 ---
 
@@ -59,6 +60,7 @@ categories: paper
 - `presenter`: 你的名字
 - `date`: 报告日期，格式为 YYYY-MM-DD
 - `original_link`: 论文的原文链接（arXiv或官方链接）
+- `code`: （可选）论文对应的代码仓库链接，如果有的话
 - `categories`: 固定填写 `paper`
 
 
