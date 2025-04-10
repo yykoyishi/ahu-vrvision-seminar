@@ -78,7 +78,7 @@ categories: paper
 
 为了保持网站的统一性和美观，每篇论文分享都需要上传一张主图。请按照以下步骤操作：
 
-1. 准备一张与论文内容相关的图片，建议尺寸为 1200x600 像素，格式可以是 JPG 或 PNG
+1. 准备一张与论文内容相关的图片，格式可以是 JPG 或 PNG
 2. 图片命名必须与 Markdown 文件名完全一致（不包含 .md 后缀）
 3. 将图片上传到 `assets/images/posts/` 目录中 （这里类似上面，一步一步操作即可上传到master分支）
 
@@ -96,7 +96,6 @@ categories: paper
 2. **Q: 点击仓库链接显示404错误（页面不存在）？**
    A: 这通常是因为你还没有接受GitHub邀请或邀请已过期。解决方法：
    - 检查你的邮箱是否有未处理的GitHub邀请邮件
-   - 访问 [GitHub邀请页面](https://github.com/notifications/organization-invitation) 查看并接受所有待处理的邀请
    - 请确保你以登记的GitHub账号登录。
    - 如果仍然有问题，请联系管理员重新发送邀请
 
