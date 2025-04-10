@@ -1,5 +1,4 @@
 # 📚 组内论文分享
-
 ## 📖 AHU VR&Vision Seminars
 
 在这里记录我们组内的论文分享和讨论。每周更新。
@@ -8,7 +7,7 @@
 
 | 日期 | 汇报人 | 论文 |
 | :---: |:---:|:---:|
-| 2025.03.26 | 潘煜君 | [Segment Any-Quality Images with Generative Latent Space Enhancement](https://linbowang.github.io/ahu-vr-vision-group/papers/3-pyj) (CVPR  2025) |
+| 2025.03.26 | 潘煜君 | [Segment Any-Quality Images with Generative Latent Space Enhancement](https://linbowang.github.io/ahu-vrvision-seminar/papers/3-pyj) (CVPR  2025) |
 
 
 ### 📋 分享规则
