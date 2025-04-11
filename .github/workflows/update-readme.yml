@@ -49,8 +49,8 @@ jobs:
           | :---: |:---:|:---:|
           EOF
           
-          # 从_posts目录读取论文信息并添加到README
-          for file in _posts/*.md; do
+          # 对文件进行排序
+          for file in $(ls -1 _posts/*.md | sort -r); do
             if [ -f "$file" ]; then
               date=$(grep -m 1 "date:" "$file" | sed 's/date: //')
               presenter=$(grep -m 1 "presenter:" "$file" | sed 's/presenter: //' | sed 's/"//g')
